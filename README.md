@@ -23,7 +23,9 @@ To install this application, first clone the repo to your local machine. Then, y
 
 To use this application, first, pull up the repo's folder in your terminal/bash shell and run the command ```node app,js``` or ```npm run start```. This will then prompt you with the welcome message and how to use the program. Read the messages and either select from the list what you want to submit, or submit the requested information. You will be prompted for information such as full names, emails, employee ID numbers, GitHub profiles, office numbers, and university/schools depending on the type of team member you are submitting. 
 
-Once your team has been added in full to the application, you can select the “no” option for adding new team members. This will complete the application and export the HTML file to the output folder **/dist**. You can now view this HTML file or host it on your website to display your team profiles.
+Once your team has been added in full to the application, you can select the “no” option for adding new team members. This will complete the application and export the HTML file to the **/dist** output folder . You can now view this HTML file or host it on your website to display your team profiles.
+
+Here is an example of the generated webpage:
 
 
 ![Vik's Team Profile Generator](src/screenshot.png)

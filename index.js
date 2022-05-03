@@ -96,12 +96,13 @@ function createHtml() {
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous"/>
+        <link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
         <title>Vik's Team Profile Generator</title>
     </head>
     <body>
         <nav class="navbar navbar-dark mb-5">
-            <span class="navbar-brand mb-3 mt-3 h1 w-100 text-center">MY TEAM</span>
+            <span class="mb-3 mt-3 h1 w-100 text-center">TEAM PROFILE GENERATOR</span>
         </nav>
         <div class="container">
             <div class="row">`;
