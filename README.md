@@ -21,7 +21,7 @@ To install this application, first clone the repo to your local machine. Then, y
 
 ## Usage
 
-To use this application, first, pull up the repo's folder in your terminal/bash shell and run the command ```node app,js``` or ```npm run start```. This will then prompt you with the welcome message and how to use the program. Read the messages and either select from the list what you want to submit, or submit the requested information. You will be prompted for information such as full names, emails, employee ID numbers, GitHub profiles, office numbers, and university/schools depending on the type of team member you are submitting. 
+To use this application, first, pull up the repo's folder in your terminal/bash shell and run the command ```node index.js``` or ```npm run start```. This will then prompt you with the welcome message and how to use the program. Read the messages and either select from the list what you want to submit, or submit the requested information. You will be prompted for information such as full names, emails, employee ID numbers, GitHub profiles, office numbers, and university/schools depending on the type of team member you are submitting. 
 
 Once your team has been added in full to the application, you can select the “no” option for adding new team members. This will complete the application and export the HTML file to the **/dist** output folder . You can now view this HTML file or host it on your website to display your team profiles.
 
@@ -37,7 +37,7 @@ A full video walkthrough of the program can be found [here](https://drive.google
 
 ## Testing
 
-This program was build using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. These tests are run with the Jest node package dependency (which is installed with the ```npm install``` command).
+This program was built using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. These tests are run with the Jest node package dependency (which is installed with the ```npm install``` command).
  To run the tests, enter the ```run npm test``` command. 
 
  ![Vik's Team Profile Generator Testing Example Video](src/team-profile-generator-testing-example.gif)
