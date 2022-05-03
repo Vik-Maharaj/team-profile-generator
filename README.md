@@ -25,6 +25,8 @@ To use this application, first, pull up the repo's folder in your terminal/bash 
 
 Once your team has been added in full to the application, you can select the “no” option for adding new team members. This will complete the application and export the HTML file to the **/dist** output folder . You can now view this HTML file or host it on your website to display your team profiles.
 
+![Vik's Team Profile Generator Usage Example Video](src/team-profile-generator-usage-example.gif)
+
 Here is an example of the generated webpage:
 
 
@@ -37,6 +39,8 @@ A full video walkthrough of the program can be found [here](https://drive.google
 
 This program was build using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. These tests are run with the Jest node package dependency (which is installed with the ```npm install``` command).
  To run the tests, enter the ```run npm test``` command. 
+
+ ![Vik's Team Profile Generator Testing Example Video](src/team-profile-generator-testing-example.gif)
 
 
 ## Credits
